@@ -1,6 +1,6 @@
 ### Ola! meu nome é Pedro Henrique. 🤵
 
-- 😎 Tenho atualmente 17 anos e moro na Bahia!
+- 😎 Moro atualmente na Bahia!
 - ✍ Tenho interesse em Front-end utilizando Java-script...
 - 📚 Atualmente aperfeiçoando conhecimentos em CSS
 - 🙋‍♂️ Pronomes: Ele/Dele
