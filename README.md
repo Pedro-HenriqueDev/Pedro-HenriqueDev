@@ -2,7 +2,7 @@
 
 - 😎 Moro atualmente na Bahia!
 - ✍ Tenho interesse em Front-end utilizando Java-script...
-- 📚 Atualmente aperfeiçoando conhecimentos em CSS
+- 📚 Atualmente aperfeiçoando conhecimentos em BootStrap
 - 🙋‍♂️ Pronomes: Ele/Dele
 
  <br>
