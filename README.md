@@ -1,7 +1,7 @@
 ### Ola! meu nome é Pedro Henrique. 🤵
 
 - 😎 Moro atualmente na Bahia!
-- ✍ Tenho interesse em Front-end utilizando Java-script...
+- 👨‍💼 Tenho interrese em desenvolver utilizando Java
 - 📚 Atualmente aprendendo JavaScript
 - 🙋‍♂️ Pronomes: Ele/Dele
 
