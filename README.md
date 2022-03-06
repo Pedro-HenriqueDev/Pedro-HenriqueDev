@@ -2,7 +2,6 @@
 
 - 😎 Moro atualmente na Bahia!
 - 💻 Interesse em dessenvolvimento Web
-- 👨‍💼 Tenho interrese em dessenvolver utilizando Java
 - 📚 Atualmente aprendendo JavaScript
 - 🙋‍♂️ Pronomes: Ele/Dele
 
