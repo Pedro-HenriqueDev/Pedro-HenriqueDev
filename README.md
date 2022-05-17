@@ -11,7 +11,7 @@
 
   <div>
   <a href="https://github.com/Pedro-HenriqueDev">
-   <img widht="90px" height="50px" src="https://github-readme-stats.vercel.app/api?username=Pedro-HenriqueDev&theme=vue-dark&show_icons=true"></img>
+   <img widht="90px" height="150px" src="https://github-readme-stats.vercel.app/api?username=Pedro-HenriqueDev&theme=vue-dark&show_icons=true"></img>
   </div>
   </div>
   
