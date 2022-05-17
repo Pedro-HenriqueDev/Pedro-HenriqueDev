@@ -2,7 +2,7 @@
 
 
 <div style="display:flex;">
-  <div>
+  <div style="display:block;">
 - 😎 Moro atualmente na Bahia!
 - 💻 Interesse em dessenvolvimento Web
 - 📚 Atualmente aprendendo JavaScript
@@ -10,7 +10,7 @@
   </div>
 
   <a href="https://github.com/Pedro-HenriqueDev">
-   <img src="https://github-readme-stats.vercel.app/api?username=Pedro-HenriqueDev&theme=vue-dark&show_icons=true"></img>
+   <img widht="90px" height="150px" src="https://github-readme-stats.vercel.app/api?username=Pedro-HenriqueDev&theme=vue-dark&show_icons=true"></img>
 </div>
   
 <div style="display: inline_block"><br>
