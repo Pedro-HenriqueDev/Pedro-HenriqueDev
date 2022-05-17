@@ -1,6 +1,6 @@
 ### Ola! meu nome é Pedro Henrique. 🤵
 
-
+<div align="center">
 <div>
   <div>
 - 😎 Moro atualmente na Bahia!<br>
@@ -33,3 +33,4 @@
  
 </div>
 
+</div>
