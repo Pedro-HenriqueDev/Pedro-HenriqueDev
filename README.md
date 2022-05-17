@@ -1,7 +1,7 @@
 ### Ola! meu nome é Pedro Henrique. 🤵
 
 
-<div style="display:flex;">
+<div style="display:flex; flex-direction: row;">
   <div style="display:block;">
 - 😎 Moro atualmente na Bahia!
 - 💻 Interesse em dessenvolvimento Web
@@ -9,9 +9,11 @@
 - 🙋‍♂️ Pronomes: Ele/Dele
   </div>
 
+  <div>
   <a href="https://github.com/Pedro-HenriqueDev">
    <img widht="90px" height="150px" src="https://github-readme-stats.vercel.app/api?username=Pedro-HenriqueDev&theme=vue-dark&show_icons=true"></img>
-</div>
+  </div>
+  </div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
