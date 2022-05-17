@@ -8,6 +8,7 @@
  <br>
  <div align="center">
   <a href="https://github.com/Pedro-HenriqueDev">
+   <img src="https://github-readme-stats.vercel.app/api?username=Pedro-HenriqueDev&theme=dark&show_icons=true"></img>
 </div>
   
 <div style="display: inline_block"><br>
