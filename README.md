@@ -2,10 +2,12 @@
 
 
 <div style="display:flex;">
+  <div>
 - 😎 Moro atualmente na Bahia!
 - 💻 Interesse em dessenvolvimento Web
 - 📚 Atualmente aprendendo JavaScript
 - 🙋‍♂️ Pronomes: Ele/Dele
+  </div>
 
   <a href="https://github.com/Pedro-HenriqueDev">
    <img src="https://github-readme-stats.vercel.app/api?username=Pedro-HenriqueDev&theme=vue-dark&show_icons=true"></img>
