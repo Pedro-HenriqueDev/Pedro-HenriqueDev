@@ -10,7 +10,6 @@
 <div align="center">
   <a href="https://github.com/Pedro-HenriqueDev">
    <img src="https://github-readme-stats.vercel.app/api?username=Pedro-HenriqueDev&theme=vue-dark&show_icons=true"></img>
- <img src"https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-HenriqueDev&layout=compact&theme=vue-dark&show_icons=true"></img>
 </div>
   
 <div style="display: inline_block"><br>
