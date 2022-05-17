@@ -7,9 +7,10 @@
 - 💻 Interesse em dessenvolvimento Web<br>
 - 📚 Atualmente aprendendo JavaScript<br>
 - 🙋‍♂️ Pronomes: Ele/Dele<br>
+    <br>
   </div>
 
-  <div style="margin-top:10px;">
+  <div>
   <a href="https://github.com/Pedro-HenriqueDev">
    <img widht="90px" height="150px" src="https://github-readme-stats.vercel.app/api?username=Pedro-HenriqueDev&theme=vue-dark&show_icons=true"></img>
   </div>
