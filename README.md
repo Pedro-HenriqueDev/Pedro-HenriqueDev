@@ -9,7 +9,7 @@
 - 🙋‍♂️ Pronomes: Ele/Dele<br>
   </div>
 
-  <div style="position: relative; right:0; top:0;">
+  <div style="position: absolute; right:0; top:0;">
   <a href="https://github.com/Pedro-HenriqueDev">
    <img widht="90px" height="150px" src="https://github-readme-stats.vercel.app/api?username=Pedro-HenriqueDev&theme=vue-dark&show_icons=true"></img>
   </div>
