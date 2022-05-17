@@ -1,7 +1,7 @@
 ### Ola! meu nome é Pedro Henrique. 🤵
 
 
-<div style="display:flex; flex-wrap:nowrap;">
+<div>
   <div>
 - 😎 Moro atualmente na Bahia!<br>
 - 💻 Interesse em dessenvolvimento Web<br>
