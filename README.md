@@ -1,13 +1,12 @@
 ### Ola! meu nome é Pedro Henrique. 🤵
 
+
+<div style="display:flex;">
 - 😎 Moro atualmente na Bahia!
 - 💻 Interesse em dessenvolvimento Web
 - 📚 Atualmente aprendendo JavaScript
 - 🙋‍♂️ Pronomes: Ele/Dele
 
- <br>
- 
-<div align="center">
   <a href="https://github.com/Pedro-HenriqueDev">
    <img src="https://github-readme-stats.vercel.app/api?username=Pedro-HenriqueDev&theme=vue-dark&show_icons=true"></img>
 </div>
