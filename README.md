@@ -2,7 +2,7 @@
 
 
 <div style="display:flex; flex-direction: row;">
-  <div style="display:block;">
+  <div>
 - 😎 Moro atualmente na Bahia!<br>
 - 💻 Interesse em dessenvolvimento Web<br>
 - 📚 Atualmente aprendendo JavaScript<br>
