@@ -3,10 +3,10 @@
 
 <div style="display:flex; flex-direction: row;">
   <div style="display:block;">
-- 😎 Moro atualmente na Bahia!
-- 💻 Interesse em dessenvolvimento Web
-- 📚 Atualmente aprendendo JavaScript
-- 🙋‍♂️ Pronomes: Ele/Dele
+- 😎 Moro atualmente na Bahia!<br>
+- 💻 Interesse em dessenvolvimento Web<br>
+- 📚 Atualmente aprendendo JavaScript<br>
+- 🙋‍♂️ Pronomes: Ele/Dele<br>
   </div>
 
   <div>
