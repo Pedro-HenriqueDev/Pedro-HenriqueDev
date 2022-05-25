@@ -1,6 +1,6 @@
 
 
-<div align="center">
+
   <h1> Ola, meu nome é Pedro Henrique! 🤵</h1>
 <div>
   <div>
@@ -34,4 +34,4 @@
  
 </div>
 
-</div>
+
