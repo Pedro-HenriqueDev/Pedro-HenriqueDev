@@ -14,9 +14,7 @@
   <div>
     
  <a href="https://github.com/rafaballerini">
-  
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-HenriqueDev&layout=compact&langs_count=7&theme=dark"/>
-  </div>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Pedro-HenriqueDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
 <div align="center"><br>
   <img align="center" alt="-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
