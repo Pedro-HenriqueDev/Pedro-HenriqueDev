@@ -5,8 +5,8 @@
 <div>
   <div>
 - 😎 Moro atualmente na Bahia!<br>
-- 💻 Interesse em dessenvolvimento Web<br>
-- 📚 Atualmente aprendendo JavaScript<br>
+- 💻 Interesse em dessenvolvimento Web (Front-End)<br>
+- 📚 Atualmente aperfeiçoando JavaScript<br>
 - 🙋‍♂️ Pronomes: Ele/Dele<br>
     <br>
   </div>
