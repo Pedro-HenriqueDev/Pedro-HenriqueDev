@@ -14,8 +14,8 @@
   <div>
     
  <a href="https://github.com/Pedro-HenriqueDev">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Pedro-HenriqueDev&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-HenriqueDev&layout=compact&langs_count=7&theme=vue"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Pedro-HenriqueDev&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-HenriqueDev&layout=compact&langs_count=7&theme=react"/>
   </div>
   
 <div align="center"><br>
