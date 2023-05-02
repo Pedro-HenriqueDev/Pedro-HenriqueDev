@@ -15,9 +15,7 @@
       <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Pedro-HenriqueDev&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
     </div>
     
-    <div>
       <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-HenriqueDev&layout=compact&langs_count=7&theme=react"/>
-    </div>
    </div>
   
 <div align="center"><br>
