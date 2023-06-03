@@ -11,8 +11,8 @@
   </div>
 
   <div align="center">
-     <img  src="https://github-readme-stats.vercel.app/api?username=Pedro-HenriqueDev&show_icons=true&theme=dark&rank_icon=github"/>
-     <img height="195"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-HenriqueDev&layout=compact&theme=dark"/>
+     <img height="175" src="https://github-readme-stats.vercel.app/api?username=Pedro-HenriqueDev&show_icons=true&theme=dark&rank_icon=github"/>
+     <img height="175"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-HenriqueDev&layout=compact&theme=dark"/>
   </div>
   
 <div align="center">
