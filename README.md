@@ -1,7 +1,7 @@
 
 
 
-  <h1> Ola, meu nome é Pedro Henrique! 🤵</h1>
+  <h1> Meu nome é Pedro Henrique! 🤵</h1>
 <div>
   <div>
 - 😎 Moro atualmente na Bahia!<br>
