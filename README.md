@@ -1,8 +1,24 @@
+# Pedro Henrique - Desenvolvedor Front-end
+
+<div>
+  Desenvolvedor Web com 3 anos de experiência em Vue.js e Node.js, atualmente cursando Análise e Desenvolvimento de Sistemas.
+</div>
+
+<br />
+
 <div>
   <div>
-- 😎 Moro atualmente na Bahia!<br>
-- 💻 Interesse em Desenvolvimento Web<br>
-- 📚 Atualmente focado em Node e Vue<br>
+    <ul>
+      <li>
+    😎 Moro atualmente na Bahia!<br/>
+      </li>
+      <li>
+     💻 Interesse em Desenvolvimento Web<br>
+      </li>
+      <li>
+     📚 Atualmente focado em Node e Vue<br>
+      </li>
+      <ul>
     <br>
   </div>
 
